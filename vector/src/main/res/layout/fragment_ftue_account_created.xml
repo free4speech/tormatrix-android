@@ -79,7 +79,7 @@
         app:layout_constraintEnd_toEndOf="@id/ftueAuthGutterEnd"
         app:layout_constraintStart_toStartOf="@id/ftueAuthGutterStart"
         app:layout_constraintTop_toBottomOf="@id/accountCreatedTitle"
-        tools:text="Your account @hello:matrix.org has been created" />
+        tools:text="Your account @hello:tormatrix has been created" />
 
     <Space
         android:id="@+id/accountCreatedSpace4"
