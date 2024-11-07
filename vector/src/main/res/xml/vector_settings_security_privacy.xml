@@ -142,7 +142,7 @@
             android:title="@string/settings_security_application_protection_title" />
 
         <im.vector.app.core.preference.VectorSwitchPreference
-            android:defaultValue="false"
+            android:defaultValue="true"
             android:key="SETTINGS_SECURITY_INCOGNITO_KEYBOARD_PREFERENCE_KEY"
             android:summary="@string/settings_security_incognito_keyboard_summary"
             android:title="@string/settings_security_incognito_keyboard_title" />
