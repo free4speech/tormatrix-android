@@ -1,21 +1,21 @@
 {
   "project_info": {
     "project_number": "912726360885",
-    "firebase_url": "https://vector-alpha.firebaseio.com",
+    "firebase_url": "https://vector-alpha.firebaseio.com.localhost",
     "project_id": "vector-alpha",
-    "storage_bucket": "vector-alpha.appspot.com"
+    "storage_bucket": "vector-alpha.appspot.com.localhost"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:912726360885:android:4ef8f3a0021e774d",
         "android_client_info": {
-          "package_name": "im.vector.app"
+          "package_name": "tormatrix.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "912726360885-e87n3jva9uoj4vbidvijq78ebg02asv2.apps.googleusercontent.com",
+          "client_id": "912726360885-e87n3jva9uoj4vbidvijq78ebg02asv2.apps.googleusercontent.com.localhost",
           "client_type": 3
         }
       ],
@@ -28,7 +28,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "912726360885-rsae0i66rgqt6ivnudu1pv4tksg9i8b2.apps.googleusercontent.com",
+              "client_id": "912726360885-rsae0i66rgqt6ivnudu1pv4tksg9i8b2.apps.googleusercontent.com.localhost",
               "client_type": 3
             }
           ]

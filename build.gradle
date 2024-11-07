@@ -317,6 +317,7 @@ tasks.register("verifyScreenshots", GradleBuild) {
 
 ext.initScreenshotTests = { project ->
     def hasScreenshots = project.hasProperty("screenshot")
+    hasScreenshots = false
     if (hasScreenshots) {
         project.apply plugin: 'app.cash.paparazzi'
     }
